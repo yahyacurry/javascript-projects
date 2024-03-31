@@ -12,11 +12,29 @@
 	  "abbr": "Arr"
 	},
 	{
+		"name": "Yahya Ahmed",
+		"team": "Warriors",
+		"points": 50000,
+		"abbr": "King"
+	  },
+	{
 	  "name": "Alexis Ajinca",
 	  "team": "Bobcats",
 	  "points": 10,
 	  "abbr": "Ale"
 	},
+	{
+		"name": "Kyrie Irving",
+		"team": "Mavericks",
+		"points": 1393,
+		"abbr": "KAI"
+	  },
+	  {
+		"name": "Luka Doncic",
+		"team": "Mavericks",
+		"points": 1393,
+		"abbr": "LUK"
+	  },
 	{
 	  "name": "LaMarcus Aldridge",
 	  "team": "Trailblazers",
